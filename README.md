@@ -1,2 +1,2 @@
 # hello-world
-New respiratory for BC hello world
+New repository for BC hello world
